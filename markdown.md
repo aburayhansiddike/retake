@@ -1,11 +1,8 @@
    # Assignment 0: Markdown
 ## You have to write  markdown
-### Some Math Equation  </br>
+### Some Math Equation
 
-        First equation: $Y =Xβ+ε_y, ∀X$
-       Second equation: $X=Z_γ+ε_x$
-
-               $f_1(w)=\frac{σ^2}{2π} , ω∈[−π,π]$
+<p align = "center">First equation: $Y=X&beta;+&epsilon;_{y},&forall;X$</p>
 
 
  1. First item a. first sub-item A)firstsub-sub-item b. second sub-item
