@@ -3,7 +3,7 @@
 ### Some Math Equation
 
 <p align = "center">First equation: $Y=X&beta;+&epsilon;_{y},&forall;X$</p>
-<p align = "center"> Second equation: $X=Z&gamma;+&epsilon;_{x}</p> 
+<p align = "center"> Second equation: $X=Z&gamma;+&epsilon;_{x}$</p> 
 
 $$
 f_1(w)=\frac{σ^2}{2π} , ω∈[−π,π]
